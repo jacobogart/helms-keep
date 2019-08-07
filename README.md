@@ -2,6 +2,8 @@
 #### By [Jacob Bogart](https://github.com/jacobogart), [Lynne Rang](https://github.com/lynnerang), & [Max Silver](https://github.com/MaxBSilver)
 A mideval, gamified version of the popular application Google Keep, utilizing React/Redux and Node/Express. 
 
+## [Deployed Version](https://helms-keep-fe.herokuapp.com/)
+
 ![HelmsKeep Screenshot](http://i68.tinypic.com/j7q6pc.png)
 
 ## Installation - Back-End
